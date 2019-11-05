@@ -30,6 +30,16 @@ Thanks goes to these wonderful people:
 			<a href="https://github.com/Aju100"><img src="https://avatars2.githubusercontent.com/u/29862610?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Aju Tamang</b></sub></a><br />
 		</td>
 	</tr>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/anuraghazra"><img src="https://avatars0.githubusercontent.com/u/35374649?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Anurag Hazru</b></sub></a><br />
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/XthaAnup"><img src="https://avatars0.githubusercontent.com/u/43677978?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Anup Shrestha</b></sub></a><br />
+		</td>
+	</tr>
 </table>
 
 Contributions of any kind welcome!
