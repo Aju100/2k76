@@ -126,7 +126,7 @@ logo = "favicon.jpeg"
   [[params.team.item]]
     name = "Aju Tamang"
     position = "Developer/Co-founder"
-    description = "Nerd, Passionate Developer, Speaker and philosopher."
+    description = "Nerd, Developer, Speaker and Dancer."
     img = "images/person1.jpg"
     email = "ajutamang10@outlook.com"
     github = "https://github.com/Aju100"
