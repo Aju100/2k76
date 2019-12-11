@@ -11,8 +11,7 @@ We use [Github Issue](!https://github.com/Aju100/2k76/issues/new) to track all t
 In order to contribute to a project on Github, you must first get a copy of the project running locally on your computer. 
 
 Steps to build this project:
-1. Set up Git and Install Node.js
+1. Set up Git and Install Hugo
 2. Fork the repository
 3. Clone your fork
-4. Install dependencies
-5. Run the project
+4. Run the project
